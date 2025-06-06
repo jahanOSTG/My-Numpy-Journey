@@ -44,6 +44,8 @@ ___
 - `np.unique()`
 - `np.sort()`
 - `np.where()`
+- `np.concatenate()`
+- `np.searchsorted()`
 - `np.any()`, `np.all()`
 
   ___
