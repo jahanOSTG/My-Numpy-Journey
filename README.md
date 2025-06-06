@@ -45,3 +45,18 @@ ___
 - `np.sort()`
 - `np.where()`
 - `np.any()`, `np.all()`
+
+  ___
+  ##  Tools & Technologies Used
+
+I practiced using the following tools:
+
+| Tool            | Description                                              |
+|-----------------|----------------------------------------------------------|
+| 🐍 Python 3      | Core programming language used for all exercises         |
+| 📦 NumPy         | Python library for numerical and matrix operations       |
+| 📓 Jupyter       | Interactive notebook environment for writing and testing |
+
+
+> All notebooks are run and tested in **Jupyter Notebook** for a clean, readable, and interactive learning experience.
+
